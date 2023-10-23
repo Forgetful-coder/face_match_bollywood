@@ -1,6 +1,0 @@
-base:
-  data_path: data
-  BASE_MODEL: RESNET50
-  include_top: False
-  input_shape: [224, 224, 3]
-  pooling: avg
